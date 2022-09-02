@@ -1,7 +1,8 @@
-### Hi there 👋
+![](/header.png)
 
 ## Languages & tools
-<p align="center">
+<div align="center">
+  
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
@@ -23,12 +24,14 @@
 <a><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" /></a>
-</p>
+  
+</div>
 
 ## Stats
-<a href="https://github.com/huco95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huco95&hide=stars&show_icons=true" />
-</a>
-<a href="https://github.com/huco95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huco95&layout=compact" />
-</a>
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huco95&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huco95&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huco95&theme=github_dark)
+  
+</div>
