@@ -1,6 +1,5 @@
 ![](/header.png)
 
-Full stack developer building 
 
 ## Full stack developer
 <div align="center">
